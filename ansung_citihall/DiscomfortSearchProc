@@ -1,0 +1,35 @@
+{
+  "success": true,
+  "message": null,
+  "data": [
+    {
+      "codeId": "32202",
+      "codeNm": "가로등,보안등고장",
+      "codeKey": "40",
+      "parentId": "0",
+      "children": [
+        {
+          "codeId": "32203",
+          "codeNm": "공원가로등",
+          "codeKey": "41",
+          "parentId": "32202",
+          "children": []
+        },
+        {
+          "codeId": "32204",
+          "codeNm": "도로가로등",
+          "codeKey": "42",
+          "parentId": "32202",
+          "children": []
+        }
+      ]
+    },
+    {
+      "codeId": "32205",
+      "codeNm": "도로 보수 신고",
+      "codeKey": "50",
+      "parentId": "0",
+      "children": []
+    }
+  ]
+}
